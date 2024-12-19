@@ -28,6 +28,11 @@ You can view the extension files in this repository. Click on the file names to 
 - [**background.js**](https://github.com/KendrickExtensions/Video-Auto-Pause-Chrome-Extension/blob/main/pause-video-extension/background.js)
 - [**content.js**](https://github.com/KendrickExtensions/Video-Auto-Pause-Chrome-Extension/blob/main/pause-video-extension/content.js)
 
+## Tutorial To Install
+Check out the extension in action:  
+[Watch the Tutorial on YouTube](https://youtu.be/0vQKvVIl36A)
+
+
 
 ## License
 This project is open-source and available under the MIT License.

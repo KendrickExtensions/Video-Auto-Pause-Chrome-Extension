@@ -24,9 +24,9 @@ This extension enhances user experience by making video playback more intuitive 
 ## Folder Structure
 You can view the extension files in this repository. Click on the file names to see the code:
 
-- [**manifest.json**](https://github.com/KendrickExtensions/Video-Auto-Pause-Chrome-Extension/blob/main/manifest.json)
-- [**background.js**](https://github.com/KendrickExtensions/Video-Auto-Pause-Chrome-Extension/blob/main/background.js)
-- [**content.js**](https://github.com/KendrickExtensions/Video-Auto-Pause-Chrome-Extension/blob/main/content.js)
+- [**manifest.json**](https://github.com/KendrickExtensions/Video-Auto-Pause-Chrome-Extension/main/manifest.json)
+- [**background.js**](https://github.com/KendrickExtensions/Video-Auto-Pause-Chrome-Extension/main/background.js)
+- [**content.js**](https://github.com/KendrickExtensions/Video-Auto-Pause-Chrome-Extension/main/content.js)
 
 ## License
 This project is open-source and available under the MIT License.
